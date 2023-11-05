@@ -9,10 +9,26 @@ main {
 /* Align the h1 containing your name in the center of the header*/
 
 /* Make your p tag a different color and italic */
-
+p {
+    font-style: italic;
+}
+p {
+    color: ghostwhite;
+}
 /* Put a border around your image */
-
+img {
+    border-style: dotted;
+}
+img {
+    border-color: darkslategrey;
+}
+img {
+    border-width: thick;
+}
 /* Change the font-family of your list */
+ul {
+    font-family: monospace;
+}
 
 /* Add a background color to the footer element */
 footer {
